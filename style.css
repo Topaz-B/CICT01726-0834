@@ -1,3 +1,17 @@
 body{
   background-color:black;
 }
+h1{
+  color:blue;}
+      h2{
+        color:orange;}
+      h1{
+        text-align:center;}
+      h3{
+        color:maroon;}
+      p{
+        color:white;}
+      td{
+        color:white;}
+      th{
+        color:white;}
