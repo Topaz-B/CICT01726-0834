@@ -1,3 +1,13 @@
 body{
-    background-color:navy!important;
+    background-color:black!important;
 }
+h1{
+    text-align:center;
+}
+h2{
+    background-color:darkblue
+}
+td{
+    background-color:darkblue
+}
+    
