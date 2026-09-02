@@ -1,19 +1,19 @@
 body{
-    background-color:black!important;
+    background-color:cream!important;
 }
 h1{
     text-align:center;
 }
 h2{
-    background-color:darkblue;
+    background-color:light blue;
 }
 td{
-    background-color:darkblue;
+    background-color:white;
 }
 p{
     color:white;
 }
-th{
+tr{
     color:white;
 }
 h1{
