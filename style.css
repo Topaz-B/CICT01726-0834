@@ -29,3 +29,9 @@ section {
     gap:30px;
     align-items: center;
 }
+footer {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 20px;
+}
