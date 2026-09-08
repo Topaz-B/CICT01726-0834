@@ -23,3 +23,9 @@ main {
 section {
  margin-bottom: 40px;
 }
+.media-container {
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    align-items: center;
+}
