@@ -31,3 +31,13 @@ function changeMessage(){
 	document.getElementById("message").innerHTML =
 	"Thank you for visiting my website!";
 }
+windows.addEventListener("scroll" , function(){
+	document.getElementbyId("BackToTop");
+	Btn.style.display = window.scrollY > 200 ? "block"; "none";
+});
+document.getElementById("BackToTop");
+windows.scrollTo({
+	top:"0",
+	behaviour:"smooth"
+});
+});
