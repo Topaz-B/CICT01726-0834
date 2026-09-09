@@ -35,3 +35,6 @@ footer {
  text-align: center;
  padding: 20px;
 }
+div {
+    border:1px solid #333; padding:15px; margin-bottom: 15px;
+}
